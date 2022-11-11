@@ -1,0 +1,96 @@
+@media(max-width: 1200px){
+
+.videoa{
+    width: 20rem;
+    width: 100%;
+    height: 19rem;
+}
+}
+
+@media(max-width: 900px){
+    .vv{
+        display: block;
+    }
+    .videoa{
+        width: 19rem;
+        height: 18rem;
+    }
+   
+    .img-clock{
+        display: block;
+        /* justify-content: center; */
+    }
+    .clock{
+        padding-right: 0.4rem;
+      width: 1rem;
+    }
+    .n-idet {
+        width: 100%;
+        padding: 0.5rem;
+        /* display: block;/ */
+    }
+    .width-display{
+        width: 100%
+    }
+    .mai-ll{
+        display: block;
+        /* justify-content: space-evenly; */
+    }
+    
+.box-facebook-icon {
+    width: 23%;
+    height: 45%;
+}
+    .inputs{
+        width: 10rem;
+    }
+}
+@media(max-width: 600px){
+
+.row-video-scroll{
+    display: block;
+    width: 100%;
+}
+.videoa{
+margin-top:46rem;
+width: 100%; 
+    height: 19rem;
+}
+.social-2{
+    width: 100%;
+}
+.width-display{
+    width: 100%
+}
+.p-2{
+    padding: 0px;
+    width: 100%;
+}
+.img-clock{
+    display: flex;
+    justify-content: center;
+}
+.clock{
+    padding-right: 0.4rem;
+  width: 2rem;
+}
+.n-idet{
+    padding: 0.5rem;
+    display: flex;
+    /* justify-content:space-between; */
+}
+.mai-ll{
+    display: block;
+    /* justify-content: space-evenly; */
+}
+.two-vid {
+    width: 100%;
+}
+.p-2{
+    width: 50%;
+
+}
+/* .na-ci {
+    padding: 0px;
+} */
+}
